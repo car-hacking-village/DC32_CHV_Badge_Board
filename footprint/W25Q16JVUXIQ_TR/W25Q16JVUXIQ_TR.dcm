@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP W25Q16JVUXIQ_TR
+D NOR Flash spiFlash, 3V, 16M-bit, 4Kb Uniform Sector, DTR
+K
+F https://componentsearchengine.com/Datasheets/1/W25Q16JVUXIQ TR.pdf
+$ENDCMP
+#
+#End Doc Library
