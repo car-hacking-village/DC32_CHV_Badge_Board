@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MK-12C02-G020")(type "KiCad")(uri "/home/groot/DC32_CHV_Badge_Board/footprint/MK-12C02-G020")(options "")(descr ""))
+  (lib (name "W25Q16JVUXIQ_TR")(type "KiCad")(uri "/home/groot/DC32_CHV_Badge_Board/footprint/W25Q16JVUXIQ_TR")(options "")(descr ""))
+  (lib (name "PTS526_SK15_SMTR2_LFS")(type "KiCad")(uri "/home/groot/DC32_CHV_Badge_Board/footprint/PTS526_SK15_SMTR2_LFS")(options "")(descr ""))
+  (lib (name "OS103011MS8QP1C")(type "KiCad")(uri "/home/groot/DC32_CHV_Badge_Board/footprint/OS103011MS8QP1C")(options "")(descr ""))
+  (lib (name "OS102011MS2QN1C")(type "KiCad")(uri "/home/groot/DC32_CHV_Badge_Board/footprint/OS102011MS2QN1C")(options "")(descr ""))
+  (lib (name "badgelife_sao_v169bis")(type "KiCad")(uri "/home/groot/DC32_CHV_Badge_Board/footprint/badgelife_sao_v169bis.pretty")(options "")(descr ""))
+  (lib (name "RP2040_minimal")(type "KiCad")(uri "/home/groot/DC32_CHV_Badge_Board/footprint/Minimal/RP2040_minimal/RP2040_minimal.pretty")(options "")(descr ""))
+)
