@@ -7,4 +7,5 @@
   (lib (name "OS102011MS2QN1C")(type "KiCad")(uri "/home/groot/DC32_CHV_Badge_Board/footprint/OS102011MS2QN1C")(options "")(descr ""))
   (lib (name "badgelife_sao_v169bis")(type "KiCad")(uri "/home/groot/DC32_CHV_Badge_Board/footprint/badgelife_sao_v169bis.pretty")(options "")(descr ""))
   (lib (name "RP2040_minimal")(type "KiCad")(uri "/home/groot/DC32_CHV_Badge_Board/footprint/Minimal/RP2040_minimal/RP2040_minimal.pretty")(options "")(descr ""))
+  (lib (name "track")(type "KiCad")(uri "/home/groot/DC32_CHV_Badge_Board/footprint/track")(options "")(descr ""))
 )
