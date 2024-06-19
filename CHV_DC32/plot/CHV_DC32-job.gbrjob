@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.1"
     },
-    "CreationDate": "2024-06-01T14:38:51-07:00"
+    "CreationDate": "2024-06-19T14:17:48-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -91,6 +91,11 @@
       "Path": "CHV_DC32-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
+    },
+    {
+      "Path": "CHV_DC32-User_Drawings.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
     },
     {
       "Path": "CHV_DC32-Edge_Cuts.gbr",
