@@ -1,0 +1,47 @@
+### Footprint positions - created on 2024-06-19T14:30:10-0400 ###
+### Printed by KiCad version 8.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                           PosX       PosY       Rot  Side
+D3        LED                  LED_1206_3216Metric           162.3500   -82.5750  -45.0000  top
+D5        LED                  LED_1206_3216Metric           170.4000   -89.9500  -40.0000  top
+D6        LED                  LED_1206_3216Metric           113.6250  -101.7500  -160.0000  top
+D7        LED                  LED_1206_3216Metric           210.2750   -37.5750  165.0000  top
+D8        LED                  LED_1206_3216Metric           179.3000   -44.0500  -148.0000  top
+D9        LED                  LED_1206_3216Metric           140.3500   -82.5250  -135.0000  top
+D10       LED                  LED_1206_3216Metric            74.1000   -91.1750  125.0000  top
+D11       LED                  LED_1206_3216Metric            69.3500   -59.3250   75.0000  top
+D12       LED                  LED_1206_3216Metric            91.9750   -37.4750   10.0000  top
+D13       LED                  LED_1206_3216Metric           123.3500   -44.0750  -35.0000  top
+D14       LED                  LED_1206_3216Metric           179.0968   -96.5530  -35.0000  top
+D15       LED                  LED_1206_3216Metric           188.7250  -101.6500  -20.0000  top
+D17       LED                  LED_1206_3216Metric           199.4250  -104.1750   -5.0000  top
+D19       LED                  LED_1206_3216Metric           220.2000   -98.7250   35.0000  top
+D20       LED                  LED_1206_3216Metric           227.7500   -90.8500   55.0000  top
+D21       LED                  LED_1206_3216Metric           232.4538   -59.5156  110.0000  top
+D23       LED                  LED_1206_3216Metric           232.4377   -81.1773   75.0000  top
+D24       LED                  LED_1206_3216Metric           233.9000   -70.3500   90.0000  top
+D25       LED                  LED_1206_3216Metric           227.7530   -49.7968  125.0000  top
+D26       LED                  LED_1206_3216Metric           220.2000   -42.0000  145.0000  top
+D27       LED                  LED_1206_3216Metric           199.5000   -36.5000  180.0000  top
+D28       LED                  LED_1206_3216Metric           188.9000   -39.0000  -160.0000  top
+D29       LED                  LED_1206_3216Metric           170.4500   -50.5250  -140.0000  top
+D30       LED                  LED_1206_3216Metric           162.4250   -58.0500  -135.0000  top
+D31       LED                  LED_1206_3216Metric           132.1250   -90.0000  -140.0000  top
+D32       LED                  LED_1206_3216Metric           123.2750   -96.5250  -145.0000  top
+D33       LED                  LED_1206_3216Metric           102.9000  -104.1500  180.0000  top
+D34       LED                  LED_1206_3216Metric            91.8727  -103.0627  165.0000  top
+D35       LED                  LED_1206_3216Metric            69.3877   -81.1227  105.0000  top
+D36       LED                  LED_1206_3216Metric            67.9250   -70.3750   90.0000  top
+D37       LED                  LED_1206_3216Metric            74.2000   -49.5500   55.0000  top
+D38       LED                  LED_1206_3216Metric            81.9225   -41.8251   35.0000  top
+D39       LED                  LED_1206_3216Metric           102.9750   -36.4500   -5.0000  top
+D40       LED                  LED_1206_3216Metric           113.5750   -39.0250  -20.0000  top
+D41       LED                  LED_1206_3216Metric           132.2250   -50.6500  -40.0000  top
+D42       LED                  LED_1206_3216Metric           140.4250   -58.0000  -45.0000  top
+FID1      Art                  track                         151.4022   -69.6065    0.0000  top
+J3        Conn_02x03_Odd_Even  Badgelife-SAOv169-BADGE-2x3   113.4950  -107.6100    0.0000  top
+J4        Conn_02x03_Odd_Even  Badgelife-SAOv169-BADGE-2x3    97.2450   -45.3350    0.0000  top
+J5        Conn_02x03_Odd_Even  Badgelife-SAOv169-BADGE-2x3   193.2700   -45.3350    0.0000  top
+J7        Conn_02x03_Odd_Even  Badgelife-SAOv169-BADGE-2x3   216.4950  -107.6100    0.0000  top
+## End
