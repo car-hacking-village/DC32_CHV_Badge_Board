@@ -8,4 +8,5 @@
   (lib (name "badgelife_sao_v169bis")(type "KiCad")(uri "${KIPRJMOD}/../footprint/badgelife_sao_v169bis.pretty")(options "")(descr ""))
   (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/../footprint/Minimal/RP2040_minimal/RP2040_minimal.pretty")(options "")(descr ""))
   (lib (name "track")(type "KiCad")(uri "${KIPRJMOD}/../footprint/track")(options "")(descr ""))
+  (lib (name "sponsor")(type "KiCad")(uri "/home/groot/DC32_CHV_Badge_Board/footprint/sponsor")(options "")(descr ""))
 )
